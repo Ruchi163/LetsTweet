@@ -1,0 +1,40 @@
+.home{
+    display: flex;
+    color: white;
+    /* border: 1px solid #5c00c5; */
+    border-radius: 20px;
+    background-color: rgb(249, 249, 249,0.1);
+    padding: 80px;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+    /* margin-left: 500px; */
+    margin: auto;
+    font-size: 20px;
+    font-weight: 600;
+}
+.home button{
+    width: 100px;
+}
+
+.home input{
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.home textarea{
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.f{
+    font-size: 12px;
+}

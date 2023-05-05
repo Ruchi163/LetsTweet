@@ -1,0 +1,35 @@
+.navbar{
+    height: 100px;
+    background-color: #171717;
+    margin-bottom: 50px;
+    display: flex;
+    color: white;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 0.5px solid #5c00c5;
+
+}
+button{
+    margin-top: 30px;
+    font-size: 16px;
+    border: 1px solid #5c00c5;
+    border-radius: 20px;
+    color: white;
+    background-color: #5c00c5;
+    padding: 10px;
+    margin-left: 5px;
+    /* background: none; */
+    cursor: pointer;;
+}
+
+.kkk{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.kkk img{
+    width: 50px;
+    margin-right: 10px;
+}

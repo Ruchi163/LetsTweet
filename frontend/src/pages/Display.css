@@ -1,0 +1,35 @@
+.displaybox{
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+    /* background-color: rgb(223, 223, 223); */
+    
+    border-radius: 10px;
+}
+
+.individualbox{
+    border: 1px solid black;
+    margin: 20px;
+    color: white;
+    padding: 20px;
+    padding-left: 40px;
+    border-radius: 20px;
+    background-color: rgb(255, 254, 254,0.1);
+    /* background-color: rgb(1, 1, 1); */
+}
+
+.individualbox img{
+    height: 60px;
+    width: 60px;
+    margin-top: 20px;
+    border-radius: 100px;
+}
+
+.dis{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+}
+.tt{
+   margin-left: 20px; 
+}
